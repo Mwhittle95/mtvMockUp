@@ -11,7 +11,7 @@ body{
 }
 .imageContainer{
     border:solid grey;
-    height:416px;
+    height:728px;
     margin:1em;
 }
 .episodeContainer{
@@ -88,12 +88,12 @@ body{
     width:100px;
     font-size: 12px;
     border-radius:10px;
-    margin-top:5px;
+    margin-top:11px;
     background-color: gray;
     color: white;
     font-family:Atial;
     margin: -33px;
-    margin-left: 12%;
+    margin-left: 8%;
     padding: 8px;
 
 }
